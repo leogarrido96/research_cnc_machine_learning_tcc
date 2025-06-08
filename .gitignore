@@ -1,0 +1,73 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Virtual environments
+venv/
+.env/
+.venv/
+
+# Environment variable files
+*.env
+
+# VS Code and PyCharm settings
+.vscode/
+.idea/
+
+# Python packaging
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Data files
+*.csv
+*.tsv
+*.json
+*.xlsx
+*.xls
+*.parquet
+*.feather
+*.h5
+*.hdf5
+*.db
+*.sqlite3
+*.npy
+*.npz
+
+# Model files
+*.joblib
+*.pkl
+*.sav
+*.pt
+*.pth
+*.onnx
+*.tflite
+
+# Log files
+*.log
+
+# Output and temp directories
+outputs/
+logs/
+checkpoints/
+tmp/
+temp/
+
+# Images and plots
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.svg
+
+# Colab and Kaggle
+*.ipynb
+.kaggle/
+
+# Ignore large raw data folder (optional, edit as needed)
+data/raw/
