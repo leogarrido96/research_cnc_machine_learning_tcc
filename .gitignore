@@ -66,8 +66,5 @@ temp/
 *.svg
 
 # Colab and Kaggle
-*.ipynb
 .kaggle/
 
-# Ignore large raw data folder (optional, edit as needed)
-data/raw/
